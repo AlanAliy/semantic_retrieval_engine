@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+.env/
+.envrc
+
+# C++ build files
+*.o
+*.out
+*.a
+*.so
+*.dylib
