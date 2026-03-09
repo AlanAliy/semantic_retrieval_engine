@@ -87,12 +87,14 @@ vector_search/
 ├── src/
 │   ├── main.cpp
 │   ├── vectorIndex.cpp
-│   ├── vectorIndex.h
 │   ├── chunkStore.cpp
-│   ├── chunkStore.h
 │   ├── embeddingLoader.cpp
+|
+├── include/
+│   ├── vectorIndex.h
+│   ├── chunkStore.h
 │   ├── embeddingLoader.h
-│
+|
 ├── scripts/
 │   ├── build_embeddings.py
 │   ├── semantic_search.py
